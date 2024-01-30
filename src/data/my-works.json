@@ -5,7 +5,7 @@
     "description": "My project-case for practicing redux toolkit.",
     "link": "https://putra-cart.netlify.app/",
     "image": "cart.png",
-    "techs": ["1.png", "2.png"]
+    "techs": ["react.png", "bootstrap.png"]
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "description": "Play maze game with cursor!",
     "link": "https://semaze.netlify.app/",
     "image": "semaze.png",
-    "techs": ["1.png", "2.png"]
+    "techs": ["javascript.png", "html.png", "css.png"]
   },
   {
     "id": 3,
@@ -21,6 +21,6 @@
     "description": "An online tool to count characters and calculate the length of text.",
     "link": "https://putra-char-counter.netlify.app/",
     "image": "char-counter.png",
-    "techs": ["1.png", "2.png"]
+    "techs": ["javascript.png", "html.png", "css.png"]
   }
 ]
