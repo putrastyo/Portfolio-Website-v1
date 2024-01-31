@@ -22,5 +22,13 @@
     "link": "https://putra-char-counter.netlify.app/",
     "image": "char-counter.png",
     "techs": ["javascript.png", "html.png", "css.png"]
+  },
+  {
+    "id": 4,
+    "title": "Official Semudah",
+    "description": "Repairing hardware from home.",
+    "link": "http://officialsemudah.com/",
+    "image": "semudah.png",
+    "techs": ["php.png", "javascript.png", "html.png", "css.png"]
   }
 ]

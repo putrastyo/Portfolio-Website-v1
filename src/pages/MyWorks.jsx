@@ -13,13 +13,13 @@ function MyWorks() {
   }, []);
 
   return (
-    <div className="md:flex justify-center gap-5 flex-wrap pt-24">
+    <div className="md:flex justify-center gap-5 flex-wrap pt-24 pb-10">
       {myWorks.map((myWork) => (
         <div
           key={myWork.id}
           className="lg:w-[35%] md:w-[40%] mb-3 md:mb-0 border shadow-sm"
         >
-          <Link to={myWork.link}>
+          <Link to={myWork.link} target="_blank">
             <div
               className="group aspect-video mb-3 card-img cursor-pointer"
               style={{ backgroundImage: `url(${myWork.image})` }}
