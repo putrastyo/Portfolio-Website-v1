@@ -30,5 +30,13 @@
     "link": "http://officialsemudah.com/",
     "image": "semudah.png",
     "techs": ["php.png", "javascript.png", "html.png", "css.png"]
+  },
+  {
+    "id": 5,
+    "title": "Specto",
+    "description": "Todo list web app.",
+    "link": "https://putra-specto.netlify.app",
+    "image": "putra-specto.png",
+    "techs": ["react.png", "typescript.png"]
   }
 ]

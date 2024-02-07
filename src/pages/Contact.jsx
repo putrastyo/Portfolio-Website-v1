@@ -59,10 +59,7 @@ function Contact() {
                 required
               ></textarea>
             </div>
-            <button
-              type="submit"
-              className="bg-gradient-to-r from-purple-500 to-pink-500 rounded text-white h-10 font-medium w-full"
-            >
+            <button className="bg-gradient-to-r from-purple-500 to-pink-500 rounded text-white h-10 font-medium w-full">
               SUBMIT
             </button>
           </form>
